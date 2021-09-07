@@ -7,7 +7,7 @@ def mysum(*items):
         output += item
     return output
 
-print(mysum())
-print(mysum(10, 20, 30, 40))
-print(mysum('a', 'b', 'c', 'd'))
+#print(mysum())
+#print(mysum(10, 20, 30, 40))
+#print(mysum('a', 'b', 'c', 'd'))
 print(mysum([10, 20, 30], [40, 50, 60], [70, 80]))
