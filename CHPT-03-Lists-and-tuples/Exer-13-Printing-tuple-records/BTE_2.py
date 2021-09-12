@@ -12,8 +12,7 @@ MOVIES = [('The Father', 97, 'Florian Zeller'),
           ('Judas and the Black Messiah', 126, 'Shaka King'),
           ('Mank', 131,'David Fincher'),
           ('Minari', 115,'Lee Isaac Chung'),
-          ('Nomadland', 108, 'Chloé Zhao') 
-            ]
+          ('Nomadland', 108, 'Chloé Zhao')]
 
 def list_of_movies_oscar(iter):
     
