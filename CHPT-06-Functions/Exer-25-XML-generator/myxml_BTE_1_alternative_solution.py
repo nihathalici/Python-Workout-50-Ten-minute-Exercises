@@ -19,20 +19,6 @@ def copyfile_shutil(f_in, *args):
     else:
         for f in args:
             shutil.copyfile(Path(f_in), Path(f))
-
-'''
-def copyfile(f_in, *args):
-    if not args:
-        print('No file is given.\nPlease try again.')
-        return
-    else:
-        with open(f_in) as f_rd:
-            for f in args:
-                with open(f, 'w') as f_wr:
-                    for l in f_rd:
-                        f_wr.write(l)
-                f_rd.seek(0)
-'''
     
 
 copyfile_shutil('sonnet_126.txt', 'copy1.txt', 'copy2.txt', 'copy3.txt')
