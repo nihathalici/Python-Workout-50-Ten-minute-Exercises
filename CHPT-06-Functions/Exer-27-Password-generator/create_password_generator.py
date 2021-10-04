@@ -1,8 +1,8 @@
 import random
 
-def create_password_generator(chars):
+def create_p_gen(chars):
 
-    def create_password(length):
+    def create_p(length):
         output = []
 
         for i in range(length):
@@ -12,6 +12,6 @@ def create_password_generator(chars):
 
     return create_password
 
-f = create_password_generator('abcdefghij!@#$%')
+#f = create_p_gen('abcdefghij!@#$%')
 
-print(f(10))
+#print(f(10))
