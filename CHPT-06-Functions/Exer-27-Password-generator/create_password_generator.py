@@ -10,8 +10,8 @@ def create_p_gen(chars):
 
         return ''.join(output)
 
-    return create_password
+    return create_p
 
-#f = create_p_gen('abcdefghij!@#$%')
+f = create_p_gen('abcdefghij!@#$%')
 
-#print(f(10))
+print(f(10))
