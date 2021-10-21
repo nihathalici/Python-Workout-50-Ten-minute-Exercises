@@ -1,0 +1,17 @@
+root:x:0:0:Herr und Meister:/root:/bin/bash
+bin:x:1:1:bin:/bin:/bin/bash
+daemon:x:2:2:daemon:/sbin:/bin/bash
+lp:x:4:7:lp daemon:/var/spool/lpd:/bin/bash
+news:x:9:13:News system:/etc/news:/bin/bash
+uucp:x:10:14:Unix-to-Unix CoPy system:/etc/uucp:/bin/bash
+at:x:25:25::/var/spool/atjobs:/bin/bash
+wwwrun:x:30:65534:Daemon user for apache:/tmp:/bin/bash
+squid:x:31:65534:WWW proxy squid:/var/squid:/bin/bash
+ftp:x:40:2:ftp account:/usr/local/ftp:/bin/bash
+firewall:x:41:31:firewall account:/tmp:/bin/false
+named:x:44:44:Nameserver Daemon:/var/named:/bin/bash
+tapico:x:501:100:Thomas Prizzi:/home/tapico:/bin/bash
+luke:x:502:100:Lukas Himmelsgeher:/home/luke:/bin/bash
+lori:x:503:100:Lori Kalmar:/home/lori:/bin/bash
+grayson:*:504:100:Grayson Death Carlyle:/home/grayson:/bin/bash
+nobody:x:65534:65534:nobody:/tmp:/bin/bash
