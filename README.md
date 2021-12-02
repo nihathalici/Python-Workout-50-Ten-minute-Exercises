@@ -13,6 +13,12 @@ Synopsis taken from the book:
 * **[Exercise 7: Ubbi Dubbi](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-02-Strings/Exer-07-Ubbi-Dubbi)** - 5 exercises
 * **[Exercise 8: Sorting a string](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-02-Strings/Exer-08-Sorting-a-string)** - 4 exercises
 
+* **[Exercise 9: First-last](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-03-Lists-and-tuples/Exer-09-First-last)** - 7 exercises
+* **[Exercise 10: Summing anything](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-03-Lists-and-tuples/Exer-10-Summing-anything)** - 6 exercises
+* **[Exercise 11: Alphabetizing-names](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-03-Lists-and-tuples/Exer-11-Alphabetizing-names)** - 6 exercises
+* **[Exercise 12: Word with most repeated letters](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-03-Lists-and-tuples/Exer-12-Word-with-most-repeated-letters)** - 4 exercises
+* **[Exercise 13: Printing-tuple-records](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-03-Lists-and-tuples/Exer-13-Printing-tuple-records)** - 4 exercises
+
 Links and Appendix
 ========================================================
 
