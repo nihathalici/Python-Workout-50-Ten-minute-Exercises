@@ -12,17 +12,18 @@ Synopsis taken from the book:
 * **[Exercise 6: Pig Latin sentence](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-02-Strings/Exer-06-Pig-Latin-sentence)** - 5 exercises
 * **[Exercise 7: Ubbi Dubbi](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-02-Strings/Exer-07-Ubbi-Dubbi)** - 5 exercises
 * **[Exercise 8: Sorting a string](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-02-Strings/Exer-08-Sorting-a-string)** - 4 exercises
-
 * **[Exercise 9: First-last](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-03-Lists-and-tuples/Exer-09-First-last)** - 7 exercises
 * **[Exercise 10: Summing anything](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-03-Lists-and-tuples/Exer-10-Summing-anything)** - 6 exercises
 * **[Exercise 11: Alphabetizing-names](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-03-Lists-and-tuples/Exer-11-Alphabetizing-names)** - 6 exercises
 * **[Exercise 12: Word with most repeated letters](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-03-Lists-and-tuples/Exer-12-Word-with-most-repeated-letters)** - 4 exercises
 * **[Exercise 13: Printing-tuple-records](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-03-Lists-and-tuples/Exer-13-Printing-tuple-records)** - 4 exercises
-
 * **[Exercise 14: Restaurant](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-04-Dictionaries-and-sets/Exer-14-Restaurant)** - 4 exercises
 * **[Exercise 15: Rainfall](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-04-Dictionaries-and-sets/Exer-15-Rainfall)** - 5 exercises
 * **[Exercise 16: Dictdiff](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-04-Dictionaries-and-sets/Exer-16-Dictdiff)** - 5 exercises
 * **[Exercise 17: How many different numbers](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-04-Dictionaries-and-sets/Exer-17-How-many-different-numbers)** - 4 exercises
+* **[Exercise 18: Final line](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-05-Files/Exer-18-Final-line)** - 8 exercises
+* **[Exercise 19: etc-passwd-to-dict](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-05-Files/Exer-19-etc-passwd-to-dict)** - 2 exercises
+* **[Exercise 20: Word count](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-05-Files/Exer-20-Word-count)** - 5 exercises
 
 
 
