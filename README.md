@@ -28,7 +28,9 @@ Synopsis taken from the book:
 * **[Exercise 22: Reading and writing CSV](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-05-Files/Exer-22-Reading-and-writing-CSV)** - 4 exercises
 * **[Exercise 23: JSON](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-05-Files/Exer-23-JSON)** - 4 exercises
 * **[Exercise 24: Reverse lines](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-05-Files/Exer-24-Reverse-lines)** - 4 exercises
-
+* **[Exercise 25: XML-generator](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-06-Functions/Exer-25-XML-generator)** - 6 exercises
+* **[Exercise 26: Prefix-notation calculator](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-06-Functions/Exer-26-Prefix-notation-calculator)** - 6 exercises
+* **[Exercise 26: Password generator](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-06-Functions/Exer-27-Password-generator)** - 4 exercises
 
 
 Links and Appendix
