@@ -30,7 +30,11 @@ Synopsis taken from the book:
 * **[Exercise 24: Reverse lines](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-05-Files/Exer-24-Reverse-lines)** - 4 exercises
 * **[Exercise 25: XML-generator](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-06-Functions/Exer-25-XML-generator)** - 6 exercises
 * **[Exercise 26: Prefix-notation calculator](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-06-Functions/Exer-26-Prefix-notation-calculator)** - 6 exercises
-* **[Exercise 26: Password generator](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-06-Functions/Exer-27-Password-generator)** - 4 exercises
+* **[Exercise 27: Password generator](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-06-Functions/Exer-27-Password-generator)** - 4 exercises
+* **[Exercise 28: Join numbers](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-07-Functional-programming-with-comprehensions/Exer-28-Join-numbers)** - 4 exercises
+* **[Exercise 29: Add numbers](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-07-Functional-programming-with-comprehensions/Exer-29-Add-numbers)** - 3 exercises
+* **[Exercise 30: Flatten a list](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-07-Functional-programming-with-comprehensions/Exer-30-Flatten-a-list)** - 4 exercises
+
 
 
 Links and Appendix
