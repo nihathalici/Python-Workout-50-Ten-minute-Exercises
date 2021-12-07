@@ -34,7 +34,9 @@ Synopsis taken from the book:
 * **[Exercise 28: Join numbers](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-07-Functional-programming-with-comprehensions/Exer-28-Join-numbers)** - 4 exercises
 * **[Exercise 29: Add numbers](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-07-Functional-programming-with-comprehensions/Exer-29-Add-numbers)** - 3 exercises
 * **[Exercise 30: Flatten a list](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-07-Functional-programming-with-comprehensions/Exer-30-Flatten-a-list)** - 4 exercises
-
+* **[Exercise 31: Pig Latin translation of a file](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-07-Functional-programming-with-comprehensions/Exer-31-Pig-Latin-translation-of-a-file)** - 5 exercises
+* **[Exercise 32: Flip a dict](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-07-Functional-programming-with-comprehensions/Exer-32-Flip-a-dict)** - 4 exercises
+* **[Exercise 33: Transform values](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-07-Functional-programming-with-comprehensions/Exer-33-Transform-values)** - 5 exercises
 
 
 Links and Appendix
