@@ -37,6 +37,10 @@ Synopsis taken from the book:
 * **[Exercise 31: Pig Latin translation of a file](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-07-Functional-programming-with-comprehensions/Exer-31-Pig-Latin-translation-of-a-file)** - 5 exercises
 * **[Exercise 32: Flip a dict](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-07-Functional-programming-with-comprehensions/Exer-32-Flip-a-dict)** - 4 exercises
 * **[Exercise 33: Transform values](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-07-Functional-programming-with-comprehensions/Exer-33-Transform-values)** - 5 exercises
+* **[Exercise 34: Almost supervocalic words](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-07-Functional-programming-with-comprehensions/Exer-34-Almost-supervocalic-words)** - 4 exercises
+* **[Exercise 35: Gematria-Part-1](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-07-Functional-programming-with-comprehensions/Exer-35-A-Gematria-Part-1)** - 5 exercises
+* **[Exercise 36: Gematria-Part-2](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-07-Functional-programming-with-comprehensions/Exer-35-B-Gematria-Part-2)** - 4 exercises
+
 
 
 Links and Appendix
