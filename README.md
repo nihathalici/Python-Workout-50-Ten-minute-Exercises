@@ -42,11 +42,12 @@ Synopsis taken from the book:
 * **[Exercise 35-B: Gematria-Part-2](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-07-Functional-programming-with-comprehensions/Exer-35-B-Gematria-Part-2)** - 4 exercises
 * **[Exercise 36: Sales tax](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-08-Modules-and-packages/Exer-36-Sales-tax)** - 5 exercises
 * **[Exercise 37: Menu](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-08-Modules-and-packages/Exer-37-Menu)** - 3 exercises
-
 * **[Exercise 38: Ice cream scoop](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-09-Objects/Exer-38-Ice-cream-scoop)** - 4 exercises
 * **[Exercise 39: Ice cream bowl](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-09-Objects/Exer-39-Ice-cream-bowl)** - 4 exercises
-
 * **[Exercise 40: Ice cream bowl with limits](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-09-Objects/Exer-40-Ice-cream-bowl-with-limits)** - 4 exercises
+* **[Exercise 41: A bigger bowl](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-09-Objects/Exer-41-A-bigger-bowl)** - 5 exercises
+* **[Exercise 42: FlexibleDict](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-09-Objects/Exer-42-FlexibleDict)** - 4 exercises
+* **[Exercise 43: Animals](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-09-Objects/Exer-43-Animals)** - 4 exercises
 
 
 
