@@ -48,6 +48,8 @@ Synopsis taken from the book:
 * **[Exercise 41: A bigger bowl](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-09-Objects/Exer-41-A-bigger-bowl)** - 5 exercises
 * **[Exercise 42: FlexibleDict](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-09-Objects/Exer-42-FlexibleDict)** - 4 exercises
 * **[Exercise 43: Animals](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-09-Objects/Exer-43-Animals)** - 4 exercises
+* **[Exercise 44: Cage](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-09-Objects/Exer-44-Cage)** - 4 exercises
+* **[Exercise 45: Zoo](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-09-Objects/Exer-45-Zoo)** - 4 exercises
 
 
 
