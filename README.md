@@ -50,7 +50,8 @@ Synopsis taken from the book:
 * **[Exercise 43: Animals](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-09-Objects/Exer-43-Animals)** - 4 exercises
 * **[Exercise 44: Cage](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-09-Objects/Exer-44-Cage)** - 4 exercises
 * **[Exercise 45: Zoo](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-09-Objects/Exer-45-Zoo)** - 4 exercises
-
+* **[Exercise 46: MyEnumerate](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-10-Iterators-and-generators/Exer-46-MyEnumerate)** - 4 exercises
+* **[Exercise 47: Circle](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-10-Iterators-and-generators/Exer-47-Circle)** - 4 exercises
 
 
 Links and Appendix
