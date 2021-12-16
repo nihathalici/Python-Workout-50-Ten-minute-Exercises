@@ -54,6 +54,7 @@ Synopsis taken from the book:
 * **[Exercise 47: Circle](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-10-Iterators-and-generators/Exer-47-Circle)** - 4 exercises
 * **[Exercise 48: All lines all files](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-10-Iterators-and-generators/Exer-48-All-lines-all-files)** - 4 exercises
 * **[Exercise 49: Elapsed since](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-10-Iterators-and-generators/Exer-49-Elapsed-since)** - 4 exercises
+* **[Exercise 50: MyChain](https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises/tree/main/CHPT-10-Iterators-and-generators/Exer-50-MyChain)** - 1 exercise
 
 
 Links and Appendix
