@@ -10,7 +10,7 @@ comment lines, meaning that you’ll need to remove them when creating your dict
 '''
 
 def tr_vl_file(file):
-    d = {}
+    di = {}
     with open(file) as f:
         di  = {line.split(':')[0]:line.split(':')[2]
               for line in f}
