@@ -1,7 +1,5 @@
 # Create a Cage class with an ID number, into which we can put our animals
 
-# Create a Cage class with an ID number, into which we can put our animals
-
 class Animal():
     def __init__(self, color, number_of_legs):
         self.species = self.__class__.__name__
