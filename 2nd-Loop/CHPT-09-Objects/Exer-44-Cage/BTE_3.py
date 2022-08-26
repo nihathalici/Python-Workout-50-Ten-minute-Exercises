@@ -9,19 +9,38 @@ you’ll check for compatibility. Trying to add an animal to a cage that already
 an incompatible animal will raise an exception.
 '''
 class Animal():
-    pass
+    def __init__(self, color, number_of_legs):
+        self.species = self.__class__.__name__
+        self.color = color
+        self.number_of_legs = number_of_legs
+    
+    def __repr__(self):
+        return f"{self.color} {self.species}, {self.number_of_legs} legs"
 
 class Wolf(Animal):
-    pass
+    space_required = 10
+
+    def __init__(self, color):
+        super().__init__(color, 4)
+
 
 class Sheep(Animal):
-    pass
+    space_required = 5
+
+    def __init__(self, color):
+        super().__init__(color, 4)
 
 class Snake(Animal):
-    pass
+    space_required = 2
+
+    def __init__(self, color):
+        super().__init__(color, 0)
 
 class Parrot(Animal):
-    pass
+    space_required = 1
+
+    def __init__(self, color):
+        super().__init__(color, 2)
 
 class DangerousAssignmentError(Exception):
     pass
