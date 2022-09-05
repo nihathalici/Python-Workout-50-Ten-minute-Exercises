@@ -9,3 +9,27 @@ method that takes a target_zoo and a subclass of Animal as arguments.
 The first animal of the specified type is removed from the zoo on which
 we’ve called the method and inserted into the first cage in the target zoo.
 '''
+
+class Animal():
+    pass
+
+class Wolf(Animal):
+    pass
+
+class Sheep(Animal):
+    pass
+
+class Snake(Animal):
+    pass
+
+class Parrot(Animal):
+    pass
+
+class Cage():
+    pass
+
+class NoColorsPassedError(Exception):
+    pass
+
+class Zoo():
+    pass
