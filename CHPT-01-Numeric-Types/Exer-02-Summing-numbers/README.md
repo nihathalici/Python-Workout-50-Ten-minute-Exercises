@@ -12,6 +12,7 @@ def mysum(*numbers):
 print(mysum(10, 20, 30, 40))
 ```
 
+* The built-in version of sum takes an optional second argument, which is used as the starting point for the summing. (That’s why it takes a list of numbers as its first argument, unlike our mysum implementation.) So sum([1,2,3], 4) returns 10, because 1+2+3 is 6, which would be added to the starting value of 4. Reim- plement your mysum function such that it works in this way. If a second argu- ment is not provided, then it should default to 0.
 
 ```python
 def mysum(li, num = 0):
