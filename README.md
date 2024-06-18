@@ -62,3 +62,10 @@ Links and Appendix
 
 - Get the book: https://www.amazon.de/Python-Workout-50-Essential-Exercises/dp/1617295507
 - About Reuven M. Lerner and his works: https://lerner.co.il/
+
+GitHub
+========================================================
+* **[Files for the Python Workout book](https://github.com/reuven/python-workout)** - Reuven M. Lerner's GitHub account
+
+
+
